@@ -1,0 +1,35 @@
+h4 {
+    font-size: larger;
+}
+p {
+    font-size: small;
+}
+label[for="p"] {
+    font-size: smaller;
+    margin: 4px;
+    font-weight: bold;
+}
+input[ type="text"] {
+    font-size: smaller;
+    width: 95%;
+    background-color: #f0f3f7;
+    padding: 6px 8px;
+    margin: 4px;
+    border: 0px;
+}
+button {
+    width: 98%;
+    text-align: center;
+    background-color: rgb(130, 207, 130);
+    color: white;
+    border: 0px;
+}
+#cent {
+    text-align: center;
+    background-color: #f0f3f7;
+    padding: 8px 10px;
+    width: 100%;
+}
+    ins {
+        color: rgb(53, 158, 224);
+    }
