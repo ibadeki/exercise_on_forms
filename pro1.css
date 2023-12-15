@@ -1,0 +1,29 @@
+body {
+    background-color:#DEE1E6;
+}
+label{
+margin-left: 12px;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+input[type="text"] {
+    margin-left: 12px;
+    width: 90%;
+padding: 8px 12px;
+}
+select {
+    margin-left: 12px;
+    padding: 8px 12px;
+    width: 95%;
+}
+textarea {
+    margin-left: 12px;
+    width: 94%;
+}
+input[type="submit"] {
+    margin-left: 12px;
+    background-color: rgb(133, 206, 133);
+    border: 0px;
+    padding: 8px 15px;
+    color: white;
+}
